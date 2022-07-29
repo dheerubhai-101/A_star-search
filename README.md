@@ -1,2 +1,2 @@
-# Motion-planning
- An introduction to implementing motion planning
+# Path Planning Algorithms
+ An introduction to implementing path planning algorithms.
